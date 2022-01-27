@@ -2,15 +2,16 @@
 
 The process has imprinted the model with detailed visual information on the faces of power in Sweden during this period. As the generated images of the machine are based on properties it has learnt from the material, the output becomes a statistically accurate representation, prediction and reflection on who we choose to govern us.
 
- <iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embedZZek1ozIV7k?autoplay=1&origin=http://github.io"
-  frameborder="0"></iframe>
-  
 ### Physical outcomes
 
 The work is intended to be shown as a series of 349 framed portraits on a wall, placed in the same formation as the seating in the Swedish parliament chamber plenissalen. In front of the wall, a screen showing a latent walk video of generated parliament members turning into new parliament members.
 
 The work is also intended to be published in a book (“De 349” / “The 349”) with a print run of 349 copies, each with 349 generated members of parliament. (349 is the number of members of the Swedish parliament.)
+
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embedZZek1ozIV7k?autoplay=1&origin=http://github.io"
+  frameborder="0"></iframe>
+
 
 ### Software architecture
 
