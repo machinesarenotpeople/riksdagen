@@ -1,4 +1,4 @@
-Riksdagen is an AI that generates photorealistic portraits of Swedish members of parliament. It is a custom machine learning model trained on ~1400 press photos of all Swedish members of parliament from 1992-2018.
+**Riksdagen is an AI that generates photorealistic portraits of Swedish members of parliament. It is a custom machine learning model trained on about 1400 press photos of all Swedish members of parliament from 1992-2018.**
 
 The process has imprinted the model with detailed visual information on the faces of power in Sweden during this period. As the generated images of the machine are based on properties it has learnt from the material, the output becomes a statistically accurate representation, prediction and reflection on who we choose to govern us.
 
