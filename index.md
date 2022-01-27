@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+#Riksdagen
+_The Parliament_
 
-You can use the [editor on GitHub](https://github.com/machinesarenotpeople/riksdagen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Riksdagen is an AI that generates photorealistic portraits of Swedish members of parliament. It is a custom machine learning model trained on ~1400 press photos of all Swedish members of parliament from 1992-2018.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The process has imprinted the model with detailed visual information on the faces of power in Sweden during this period. As the generated images of the machine are based on properties it has learnt from the material, the output becomes a statistically accurate representation, prediction and reflection on who we choose to govern us.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Physical outcomes
 
-```markdown
-Syntax highlighted code block
+The work is intended to be shown as a series of 349 framed portraits on a wall, placed in the same formation as the seating in the Swedish parliament chamber plenissalen. In front of the wall, a screen showing a latent walk video of generated parliament members turning into new parliament members.
 
-# Header 1
-## Header 2
-### Header 3
+The work is also intended to be published in a book (“De 349” / “The 349”) with a print run of 349 copies, each with 349 generated members of parliament. (349 is the number of members of the Swedish parliament.)
 
-- Bulleted
-- List
+##Software architecture
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/machinesarenotpeople/riksdagen/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The software architecture of this work is based on AI research by Karras, T. et.al. (2019). Analyzing and improving the image quality of StyleGAN.
