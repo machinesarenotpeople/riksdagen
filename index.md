@@ -1,6 +1,6 @@
 # Riksdagen _The Parliament_
 
-* An art project by Andrea Nordwall *
+**An art project by Andrea Nordwall**
 
 Riksdagen is an AI that generates photorealistic portraits of Swedish members of parliament. It is a custom machine learning model trained on ~1400 press photos of all Swedish members of parliament from 1992-2018.
 
