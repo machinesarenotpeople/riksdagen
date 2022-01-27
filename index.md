@@ -1,4 +1,4 @@
-<img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/1.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/3.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/5.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/23.jpeg" width="120" height="120">
+<img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/1.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/3.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/17.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/23.jpeg" width="120" height="120">
 
 **_Riksdagen_ (The Parliament) is an custom AI that generates photorealistic portraits of Swedish members of parliament. It is a custom machine learning model trained on about 1400 press photos of all Swedish members of parliament from 1992-2018.**
 
@@ -18,6 +18,6 @@ The work is also intended to be published in a book (*De 349* / *The 349*) with 
 
 The software architecture of this work is based on AI research by Karras, T. et.al. (2019)[^1].
 
-<img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/9.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/17.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/8.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/10.jpeg" width="120" height="120">
+<img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/9.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/5.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/8.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/10.jpeg" width="120" height="120">
 
 [^1]: Karras, T., Laine, S., Aittala, M., Hellsten, J., Lehtinen, J., & Aila, T. (2019). Analyzing and improving the image quality of StyleGAN.
