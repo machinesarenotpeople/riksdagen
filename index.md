@@ -26,6 +26,10 @@ The process has imprinted the model with detailed visual information on the face
   }
 </script>
 
+ <iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/embed/M7lc1UVf-VE?autoplay=1&origin=http://example.com"
+  frameborder="0"></iframe>
+  
 ### Physical outcomes
 
 The work is intended to be shown as a series of 349 framed portraits on a wall, placed in the same formation as the seating in the Swedish parliament chamber plenissalen. In front of the wall, a screen showing a latent walk video of generated parliament members turning into new parliament members.
