@@ -12,6 +12,8 @@ The work is also intended to be published in a book (“De 349” / “The 349�
   src="https://www.youtube.com/embed/ZZek1ozIV7k?autoplay=1"
   frameborder="0"></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZek1ozIV7k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### Software architecture
 
 The software architecture of this work is based on AI research by Karras, T. et.al. (2019)[^1]. 
