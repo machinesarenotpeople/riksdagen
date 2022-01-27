@@ -9,7 +9,7 @@ The work is intended to be shown as a series of 349 framed portraits on a wall, 
 The work is also intended to be published in a book (“De 349” / “The 349”) with a print run of 349 copies, each with 349 generated members of parliament. (349 is the number of members of the Swedish parliament.)
 
 <iframe id="ytplayer" type="text/html" width="560" height="315"
-  src="https://www.youtube.com/embed/ZZek1ozIV7k?autoplay=1&modestbranding=1"
+  src="https://www.youtube.com/embed/ZZek1ozIV7k?autoplay=1"
   frameborder="0"></iframe>
 
 ### Software architecture
