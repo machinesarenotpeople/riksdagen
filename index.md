@@ -1,6 +1,6 @@
-# Riksdagen
+# Riksdagen _The Parliament_
 
-_The Parliament_
+* An art project by Andrea Nordwall *
 
 Riksdagen is an AI that generates photorealistic portraits of Swedish members of parliament. It is a custom machine learning model trained on ~1400 press photos of all Swedish members of parliament from 1992-2018.
 
@@ -15,4 +15,7 @@ The work is also intended to be published in a book (“De 349” / “The 349�
 
 ## Software architecture
 
-The software architecture of this work is based on AI research by Karras, T. et.al. (2019). Analyzing and improving the image quality of StyleGAN.
+The software architecture of this work is based on AI research by Karras, T. et.al. (2019)[^1]. 
+
+
+[^1]: Karras, T., Laine, S., Aittala, M., Hellsten, J., Lehtinen, J., & Aila, T. (2019). Analyzing and improving the image quality of StyleGAN.
