@@ -1,4 +1,4 @@
-<img src="/assets/img/1.jpeg" width="256" height="256"><img src="/assets/img/3.jpeg" width="256" height="256">
+<img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/1.jpeg" width="150" height="150"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/3.jpeg" width="150" height="150">
 
 **_Riksdagen_ is an custom AI that generates photorealistic portraits of Swedish members of parliament. It is a custom machine learning model trained on about 1400 press photos of all Swedish members of parliament from 1992-2018.**
 
