@@ -3,7 +3,7 @@
 The process has imprinted the model with detailed visual information on the faces of power in Sweden during this period. As the generated images of the machine are based on properties it has learnt from the material, the output becomes a statistically accurate representation, prediction and reflection on who we choose to govern us.
 
  <iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embedZZek1ozIV7k?autoplay=1&origin=http://github.com"
+  src="https://www.youtube.com/embedZZek1ozIV7k?autoplay=1&origin=http://github.io"
   frameborder="0"></iframe>
   
 ### Physical outcomes
