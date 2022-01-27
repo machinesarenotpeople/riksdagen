@@ -1,6 +1,6 @@
 <img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/1.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/3.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/5.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/8.jpeg" width="120" height="120">
 
-**_Riksdagen_ is an custom AI that generates photorealistic portraits of Swedish members of parliament. It is a custom machine learning model trained on about 1400 press photos of all Swedish members of parliament from 1992-2018.**
+**_Riksdagen_ (The Parliament) is an custom AI that generates photorealistic portraits of Swedish members of parliament. It is a custom machine learning model trained on about 1400 press photos of all Swedish members of parliament from 1992-2018.**
 
 The process has imprinted the model with detailed visual information on the faces of power in Sweden during this period. As the generated images of the machine are based on properties it has learnt from the material, the output becomes a statistically accurate representation, prediction and reflection on who we choose to govern usas well as a comment on algorithmic self-reproduction of power in politics.
 
