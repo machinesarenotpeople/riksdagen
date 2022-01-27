@@ -11,7 +11,7 @@ The work is also intended to be published in a book (“De 349” / “The 349�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZek1ozIV7k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<p></br></p>
+
 
 ### Software architecture
 
