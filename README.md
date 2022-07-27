@@ -7,7 +7,7 @@ The process has imprinted the model with detailed visual information on the face
 
 ### Physical outcomes
 
-The work is intended to be shown as a series of 349 framed portraits on a wall, placed in the same formation as the seating in the Swedish parliament chamber [*plenissalen*](https://www.riksdagen.se/sv/sa-funkar-riksdagen/arbetet-i-riksdagen/vad-ar-vad-i-kammaren/). In front of the wall, a screen showing a latent walk video of generated parliament members turning into new parliament members.
+The work is intended to be shown as a series of 349 framed portraits on a wall, placed in the same formation as the seating in the Swedish parliament chamber [*plenisalen*](https://www.riksdagen.se/sv/sa-funkar-riksdagen/arbetet-i-riksdagen/vad-ar-vad-i-kammaren/). In front of the wall, a screen showing a latent walk video of generated parliament members turning into new parliament members.
 
 https://www.youtube.com/embed/ZZek1ozIV7k
 
