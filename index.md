@@ -7,17 +7,19 @@ The process has imprinted the model with detailed visual information on the face
 
 ### Physical outcomes
 
-The work is intended to be shown as a series of 349 framed portraits on a wall, placed in the same formation as the seating in the Swedish parliament chamber [*plenissalen*](https://www.riksdagen.se/sv/sa-funkar-riksdagen/arbetet-i-riksdagen/vad-ar-vad-i-kammaren/). In front of the wall, a screen showing a latent walk video of generated parliament members turning into new parliament members.
+The work is intended to be shown as a series of 349 framed portraits on a wall, placed in the same formation as the seating in the Swedish parliament chamber [*plenisalen*](https://www.riksdagen.se/sv/sa-funkar-riksdagen/arbetet-i-riksdagen/vad-ar-vad-i-kammaren/). In front of the wall, a screen showing a latent walk video of generated parliament members turning into new parliament members.
+
+*Riksdagen (the Parliament)* was showed at the AI art exhibition [Sentient Machines? in August 2022 at Färgfabriken](https://fargfabriken.se/en/pa-gang/sentient-machines/), which was part of the [Futureless Festival for Tachnology and the Arts](https://www.futurelessfestival.com/) with support från [Kulturrådet (Swedish Arts Council)](https://www.kulturradet.se/) and [Nordisk Kulturfond (Nordic Culture Fund)](https://www.nordiskkulturfond.org/en), curated by [Paola Torres Núñez del Prado](https://autodios.github.io/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZek1ozIV7k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 *Output from Riksdagen.*
 
-The work is also intended to be published in a book (*De 349* / *The 349*) with a print run of 349 copies, each with 349 generated members of parliament. (349 is the number of members of the Swedish parliament.)
+The work has also been published as a book with a print run of 100 copies, documenting the 349 generated members of parliament. Contact me if you are interested in getting the book.
 
 ### Software architecture
 
-The software architecture of this work (StyleGAN2[^1]) is based on AI research by Karras, T. et.al. (2019)[^2].
+The software architecture of this work (StyleGAN2[^1]) is based on research by Karras, T. et.al. (2019)[^2].
 
 [^1]: https://github.com/NVlabs/stylegan2
 [^2]: Karras, T., Laine, S., Aittala, M., Hellsten, J., Lehtinen, J., & Aila, T. (2019). *Analyzing and improving the image quality of StyleGAN.*
