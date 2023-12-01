@@ -1,26 +1,33 @@
 <img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/1.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/3.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/23.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/17.jpeg" width="120" height="120">
 
-**_Riksdagen_ (The Parliament) is an custom AI that generates photorealistic portraits of Swedish members of parliament. It is a custom machine learning model trained on about 1400 press photos of all Swedish members of parliament from 1992-2018.**
+**_Riksdagen_ (The Parliament) is an custom AI that generates photorealistic portraits of Swedish members of parliament. It is a custom machine learning model trained on about 1400 press photos[^1] of all Swedish members of parliament from 1992-2022.**
 
-The process has imprinted the model with detailed visual information on the faces of power in Sweden during this period. As the generated images of the machine are based on properties it has learnt from the material, the output becomes a statistically accurate representation, prediction and reflection on who we choose to govern usas well as a comment on algorithmic self-reproduction of power in politics.
+The process has imprinted the model with detailed visual information on the faces of power in Sweden during this period. As the generated images of the machine are based on properties it has learnt from the material, the output becomes a statistically accurate representation, prediction and reflection on who we choose to govern us, as well as a comment on algorithmic self-reproduction of power in politics.
 
+### Physical Outcomes
 
-### Physical outcomes
+The work is intended to be shown as a series of 349 framed portraits on a wall, placed in the same formation as the seating in the Swedish parliament chamber [*plenisalen*](https://www.riksdagen.se/sv/sa-funkar-riksdagen/arbetet-i-riksdagen/vad-ar-vad-i-kammaren/). In front of the wall, a screen showing a latent walk video of generated parliament members turning into new parliament members. The 349 generated members of parliament were weighted on gender and age statistics of the Swedish parliament as of August 2022[^2].
 
-The work is intended to be shown as a series of 349 framed portraits on a wall, placed in the same formation as the seating in the Swedish parliament chamber [*plenisalen*](https://www.riksdagen.se/sv/sa-funkar-riksdagen/arbetet-i-riksdagen/vad-ar-vad-i-kammaren/). In front of the wall, a screen showing a latent walk video of generated parliament members turning into new parliament members.
-
-https://www.youtube.com/embed/ZZek1ozIV7k
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZek1ozIV7k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 *Output from Riksdagen.*
 
-The work is also intended to be published in a book (*De 349* / *The 349*) with a print run of 349 copies, each with 349 generated members of parliament. (349 is the number of members of the Swedish parliament.)
+*Riksdagen (the Parliament)* was shown at the AI art exhibition [Sentient Machines? in August 2022 at Färgfabriken](https://fargfabriken.se/en/pa-gang/sentient-machines/), which was part of the [Futureless Festival for Tachnology and the Arts](https://www.futurelessfestival.com/) with support från [Kulturrådet (Swedish Arts Council)](https://www.kulturradet.se/) and [Nordisk Kulturfond (Nordic Culture Fund)](https://www.nordiskkulturfond.org/en), curated by [Paola Torres Núñez del Prado](https://autodios.github.io/).
+
+### Art Book
+
+The work has been published as a book with a print run of 100 copies, documenting the 349 generated members of parliament. Contact *andrea dot nordwall at gmail dot com* if you are interested in acquiring a copy of the book.
+
+### Software Architecture and Model Release
+
+The software architecture of this work (StyleGAN2[^3]) is based on research by Karras, T. et.al. (2019)[^4].
+
+The AI model Riksdagen is made available ([here](https://drive.google.com/file/d/1K95S7xjmSZK7dKkFFTdQ58kHNQ-Vx4Ib/view?usp=sharing)) as a digital art work for personal use.
+
+[^1]: Foto: Sveriges riksdag
+[^2]: https://www.riksdagen.se/sv/dokument-och-lagar/riksdagens-oppna-data/
+[^3]: https://github.com/NVlabs/stylegan2
+[^4]: Karras, T., Laine, S., Aittala, M., Hellsten, J., Lehtinen, J., & Aila, T. (2019). *Analyzing and improving the image quality of StyleGAN.*
 
 <p><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/9.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/10.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/8.jpeg" width="120" height="120"><img src="https://github.com/machinesarenotpeople/Riksdagen/raw/gh-pages/assets/img/5.jpeg" width="120" height="120"></p>
 *All portraits on this page were generated by Riksdagen.*
-
-### Software architecture
-
-The software architecture of this work (StyleGAN2[^1]) is based on AI research by Karras, T. et.al. (2019)[^2].
-
-[^1]: https://github.com/NVlabs/stylegan2
-[^2]: Karras, T., Laine, S., Aittala, M., Hellsten, J., Lehtinen, J., & Aila, T. (2019). *Analyzing and improving the image quality of StyleGAN.*
